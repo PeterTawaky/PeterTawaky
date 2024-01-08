@@ -13,7 +13,7 @@ ___
   - c++
  
 - #### Methodologies
-  -Building Process
+  - Building Process
   - SDLC
 - #### Tools
   - IDE
