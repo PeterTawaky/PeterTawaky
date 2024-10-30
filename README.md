@@ -1,47 +1,18 @@
-### Hi there 👋
-___
-## Overview about me 👀
-📌I am __Peter Ayman__ studying __Mechatronics Engineering__ at  Faculty Of Engineering - __HTI 10Th Of Ramadan City__, I found my self in studying __Software__ specializing in __Embedded Systems__ and still work on my self trying to reach my __Peak__.
-___
-#### Some of my Knowledge
-- #### Electronics Knowledge
-  - Logic Gates
-  - Digital design
-  
-- #### Programming Languages
-  - c language
-  - c++
- 
-- #### Methodologies
-  - Building Process
-  - SDLC
-- #### Tools
-  - IDE
-  - Osciloscope
-  - Simulator
-
-- #### SW Engineering
-  - familiar with using git & Github (VCS)
-
-___
-## How to reach me : 📫
-1. [![Linkedin](https://img.shields.io/badge/LinkedIn-PeterAyman-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/peterayman)
-2. [Twitter (X)](https://twitter.com/Peter__Ayman?t=12ZL1DrmQ5quNZ2roeSuYg&s=09)
-3. [Facebook](https://www.facebook.com/peter.ayman.963?mibextid=ZbWKwL)
+# 💫 About Me:
+Hello there, Iam an engineer student , interested in programming and software production specially in mobile applications development using flutter cross platform, I still work on myself until I reach my peak
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/peter.ayman.963) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PeterAyman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Peter__Ayman) 
 
-<!--
-**PeterTawaky/PeterTawaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PeterTawaky&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PeterTawaky&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterTawaky&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
+---
+[![](https://visitcount.itsvg.in/api?id=PeterTawaky&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
