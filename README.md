@@ -1,6 +1,8 @@
 # 💫 About Me:
-Hello there, Iam an engineer student , interested in programming and software production specially in mobile applications development using flutter cross platform, I still work on myself until I reach my peak
-
+Junior Flutter Developer who approaches software development by first understanding the problem behind the
+requirements. Builds business-driven solutions with scalable, maintainable architectures that support long-term
+growth. Experienced in real-world projects and leverages AI thoughtfully to enhance efficiency without
+compromising system design.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/peter.ayman.963) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PeterAyman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Peter__Ayman) 
